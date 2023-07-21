@@ -31,13 +31,13 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Alphabot-Md" //namabot kalian
-global.ownername = "sandaru" //nama kalian
-global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
-global.myweb2 = "https://s.id/BOTGITHUB" //bebas
-global.email = "mdsandaru2@gmail.com" //bebas
-global.region = "Buddhist" //bebas
+global.botname = "Robio bot" //namabot kalian
+global.ownername = "Robio" //nama kalian
+global.myweb = "soon" //bebas asal jan hapus
+global.youtube = "https://www.youtube.com/channel/UCI12n2pujpT9em_UB7s0sFg" //bebas asal jan hapus
+global.myweb2 = "soon" //bebas
+global.email = "hossamgamerxd@gmail.com" //bebas
+global.region = "morocco" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
 global.premium = ['94764497078'] //premium user
 global.owner = ["764497078", "94764497078"] //ganti agar fitur owner bisa di gunakan
